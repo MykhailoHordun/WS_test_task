@@ -1,6 +1,6 @@
 # Winstars_Technology_Test_Task
 ## Description
-This basic purpose of this project is to make a model that will make a segmentation of an input image. To accomplish this U-Net model was trained on a kaggle Airbus Ship Detection Challenge Dataset. 
+This basic purpose of this project is to make a model that will make a segmentation of an input image. To accomplish this, U-Net model was trained on a kaggle Airbus Ship Detection Challenge Dataset. 
 
 'data_analysis.jpynb' - jupyter notebook with exploratory data analysis of the dataset;
 
